@@ -1,0 +1,6 @@
+{
+  "name": "Virtual 3D Character Game",
+  "description": "A 3D virtual companion game with AI conversation, wardrobe customization, 90-level progression, and coin-earning mini-games.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
